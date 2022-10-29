@@ -2,7 +2,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/U-c0de/Rescue">
-    <img src="https://github.com/swapnilsparsh/Rescue/blob/master/main_app/static/Images/rescues.gif" width="850" height="420" >
+    <img src="https://github.com/U-c0de/BabbleBee/blob/main/25.gif" width="850" height="480" >
   </a>
 
   <h1 align="center"><b>(Real Time Chat Application)</b></h1>
